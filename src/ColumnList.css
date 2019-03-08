@@ -1,0 +1,55 @@
+.app-lists {
+    display: flex;
+}
+
+.app-lists .column-list {
+    width: 100%;
+}
+
+.app-lists .column-list .list-items {
+    list-style: none;
+    text-align: left;
+    margin: 0;
+    padding: 20px 0;
+}
+
+.app-lists .column-list .list-items li {
+    position: relative;
+    width: 80%;
+    padding: 10px 0;
+    border-radius: 3px;
+    background-color: #f4fdfe;
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin: 0 3px;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+
+.btn-success {
+    background-color: forestgreen;
+    color: white;
+}
+
+.btn-danger {
+    background-color: darkred;
+    color: white;
+}
+
+.btn-warning {
+    background-color: darkorange;
+}
+
+.app-lists .column-list .list-items li input {
+    margin: 0 10px;
+}
+
+.app-lists .column-list .list-items li input:checked + span {
+    text-decoration: line-through;
+}
+
+input[type=text] {
+    padding: 5px;
+}
