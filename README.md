@@ -5,4 +5,4 @@ adicionar e remover tarefas, bem como marcá-las como concluídas.
 
 Esta aplicação foi desenvolvida baseado no Nanodegree da Udacity.
 
-!["Screenshot"](./public/screen.png)
+!["Screenshot"](/public/screen.png)
