@@ -22,10 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .idea/vcs.xml
-public/screen.png
-### macOS template
+### macOS templates
 # General
-.DS_Store
 .AppleDouble
 .LSOverride
 

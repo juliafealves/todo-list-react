@@ -1,8 +1,5 @@
 # To Do List with React
 
-Criação de um aplicativo de lista de tarefas off-line com LocalStorage. Neste aplicativo, poderá 
-adicionar e remover tarefas, bem como marcá-las como concluídas. 
+This code refers to an offline task list application with LocalStorage based on Udacity's Nanodegree. In this application, you can add and remove tasks as well as mark them as completed.
 
-Esta aplicação foi desenvolvida baseado no Nanodegree da Udacity.
-
-!["Screenshot"](/public/screen.png)
+!["Screenshot"](public/screen.png)
